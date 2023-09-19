@@ -37,3 +37,9 @@ The project utilizes Gradient Boosting, a powerful ensemble learning technique, 
 ## Results
 
 The HR Department AI Project has produced outstanding results, with an F-score of 89. This score signifies the model's ability to identify and recommend top candidates for various roles, significantly enhancing the efficiency and accuracy of the hiring process.
+
+## Contributing
+Contributions to this dataset and analysis are welcome. If you have suggestions, improvements, or additional insights, please feel free to contribute by submitting a pull request.
+
+## Contact
+For questions or feedback regarding this README or project, please contact Riyad at riyadehmedov03@gmail.com.
